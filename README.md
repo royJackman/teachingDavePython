@@ -1,2 +1,2 @@
 # teachingDavePython
-A library so Dave can learn Pyton!
+A library so Dave can learn Python!
